@@ -44,4 +44,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Elyab Legese]([https://github.com/Elyablegese]) and [Abel Adnae](https://github.com/avel0a).
+All code written by [Elyab Legese](https://github.com/Elyablegese) and [Abel Adnae](https://github.com/avel0a).
